@@ -1,0 +1,16 @@
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\bin\Debug\net5.0\FindCommonCharacters.exe
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\bin\Debug\net5.0\FindCommonCharacters.deps.json
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\bin\Debug\net5.0\FindCommonCharacters.runtimeconfig.json
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\bin\Debug\net5.0\FindCommonCharacters.runtimeconfig.dev.json
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\bin\Debug\net5.0\FindCommonCharacters.dll
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\bin\Debug\net5.0\ref\FindCommonCharacters.dll
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\bin\Debug\net5.0\FindCommonCharacters.pdb
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\obj\Debug\net5.0\FindCommonCharacters.csprojAssemblyReference.cache
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\obj\Debug\net5.0\FindCommonCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\obj\Debug\net5.0\FindCommonCharacters.AssemblyInfoInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\obj\Debug\net5.0\FindCommonCharacters.AssemblyInfo.cs
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\obj\Debug\net5.0\FindCommonCharacters.csproj.CoreCompileInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\obj\Debug\net5.0\FindCommonCharacters.dll
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\obj\Debug\net5.0\ref\FindCommonCharacters.dll
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\obj\Debug\net5.0\FindCommonCharacters.pdb
+C:\Users\amisa\Documents\JeffLeupold\Scratch\FindCommonCharacters\obj\Debug\net5.0\FindCommonCharacters.genruntimeconfig.cache
